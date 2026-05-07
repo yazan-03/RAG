@@ -166,7 +166,3 @@ Then open your browser at `http://localhost:8501` and start asking questions abo
 - The RAG pipeline is cached after the first load for performance
 
 ---
-
-## License
-
-This project is for educational and research purposes.
